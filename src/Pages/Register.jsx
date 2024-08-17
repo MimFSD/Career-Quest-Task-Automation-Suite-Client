@@ -37,6 +37,8 @@ const Register = () => {
                 console.log(error);
             });
     };
+
+
     return (
         <div className="container mx-auto min-h-screen flex items-center">
             <div className="w-[350px] mx-auto bg-white shadow-md rounded-lg p-6">
@@ -70,6 +72,7 @@ const Register = () => {
                         placeholder="Password"
                         required
                     />
+                    
                     {/* <p className="text-right text-sm text-gray-500 underline cursor-pointer hover:text-black">Forgot Password?</p> */}
                     <button type="submit" className="bg-teal-600 text-white rounded-full p-3 shadow-md active:shadow-none">
                         Register
