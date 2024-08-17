@@ -1,10 +1,9 @@
 # E-Commerce Website
 
-This is a full-featured e-commerce website built using the MERN stack (MongoDB, Express.js, React.js, Node.js). The application provides a platform for users to browse and purchase products online, and for admins to manage products, orders, and users.
 
 ## Features
 
-### User Features
+
 - **User Authentication and Authorization**
   - Sign up, log in, and log out functionality.
   - JWT-based authentication with role-based access control (customer, admin).
