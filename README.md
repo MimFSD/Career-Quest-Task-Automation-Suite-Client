@@ -87,14 +87,6 @@ This is a full-featured e-commerce website built using the MERN stack (MongoDB, 
 
 
 
-
-
-### Deployment and DevOps
-- **Heroku or Vercel**: For deploying the backend and frontend.
-- **Netlify**: Hosting for frontend applications.
-- **AWS (Amazon Web Services)**: For scalable cloud hosting.
-- **DigitalOcean**: For flexible and affordable cloud hosting.
-
 ### Version Control
 - **Git**: Version control for tracking changes and collaboration.
 - **GitHub or GitLab**: Hosting and managing repositories.
