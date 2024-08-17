@@ -1,10 +1,11 @@
-
+import Products from "../Components/ProductSection/Products";
 
 const Home = () => {
-
-    return <>
-        <h3>Home</h3>
-    </>
-}
+    return (
+        <div>
+            <Products></Products>
+        </div>
+    );
+};
 
 export default Home;
